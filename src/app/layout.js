@@ -14,7 +14,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "Griffith Cleaning Services",
-  description: "",
+  description: ["griffith cleaning services","cleaning services in nsw","cleaning services in griffith"],
   
 };
 
