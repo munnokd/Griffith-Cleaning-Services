@@ -82,7 +82,7 @@ const Contacts = () => {
                                 <FaPhoneVolume className='text-sky-700' />
                                 <p className='text-sky-700 ml-4'>Phone Number</p>
                             </div>
-                            <a className='text-gray-500' href="tel:123-456-7890">04</a>
+                            <a className='text-gray-500' href="tel:0427442211">0427442211</a>
                         </div>
                         <div className='flex flex-col mb-4'>
                             <div className='flex items-center font-bold text-2xl mb-1'>
